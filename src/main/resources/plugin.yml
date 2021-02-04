@@ -1,0 +1,5 @@
+name: Bukkit Playtime
+version: ${project.version}
+main: me.kinggeert.bukkitplaytime.BukkitPlaytime
+api-version: 1.16
+authors: [ kinggeert ]
